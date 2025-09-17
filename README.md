@@ -17,14 +17,15 @@ The **Lease Management System** is designed to streamline and automate the proce
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 How It Works
 
-* **Frontend:** HTML, CSS, JavaScript (or React if applicable)
-* **Backend:** Java / Python / Node.js (choose based on your project)
-* **Database:** MySQL / SQL Server / PostgreSQL
-* **Tools:** Git, GitHub, IDE (Eclipse/VS Code), JDBC/ORM frameworks
-* **Deployment:** Local server / Cloud (if applicable)
+Add lease contract details (tenant, landlord, property, duration).
 
+Maintain records of payments made under each contract.
+
+View upcoming lease renewals and get notified.
+
+Generate summary reports for quick reference.
 ---
 
 ## ⚙️ Installation & Setup
